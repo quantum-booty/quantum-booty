@@ -16,3 +16,12 @@ Here are some ideas to get you started:
 -->
 ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=quantum-booty&count_private=true&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quantum-booty&theme=vue-dark)
+
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
